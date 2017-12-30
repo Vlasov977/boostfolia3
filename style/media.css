@@ -1,0 +1,313 @@
+/* md */
+@media (max-width: 1200px){
+	.our_works_display{
+		padding: 55px 0 0 0;
+	}
+
+	.our_works_display h2{
+		font-size: 40px;
+	}
+
+	.our_works_company{
+		    padding: 55px 0 40px 0;
+	}	
+
+	.our_works_company a{
+		font-size: 25px;
+	}
+
+	.our_works p{
+		    padding: 15px 220px 25px 200px;
+	}
+
+	.who_we_are{
+		    padding: 50px 0 0 0;
+	}
+
+	.who_we_are_display p{
+		    padding: 20px 220px 40px 200px;
+	}
+
+	.who_we_are_display h2{
+		font-size: 40px;
+	}
+
+	.who_we_are_analitics{
+		height: 560px;
+	}
+
+	.who_we_are_analitics_info{
+		padding: 100px 50px 70px 60px;
+	}
+
+	.who_we_are_analitics_info_panel .headers{
+		    padding: 0 0 0 35px;
+	}
+
+	.some_features{
+		    padding: 60px 0 0 0;
+	}
+
+	.some_features h3{
+		font-size: 32px;
+	}
+
+	.some_features_items_content{
+		font-size: 40px;
+		margin: 15px 0 30px 0;
+	}
+
+}
+
+
+/* sm */
+@media (max-width: 992px){
+	.our_works_display{
+		padding: 35px 0 0 0;
+	}
+
+	.our_works_display h2{
+		font-size: 30px;
+	}
+
+	.our_works_display p{
+		font-size: 12px;
+	}
+
+	.our_works_headers a{
+		font-size: 12px;
+	}
+
+	.our_works_company{
+		padding: 30px 0 30px 0;
+	}
+
+	.our_works_company img{
+		height: 36px;
+		width: 40px;
+	}
+
+	.our_works_company a{
+		font-size: 18px;
+		padding: 0 4px 0 4px;
+	}
+
+	.our_works p{
+		        padding: 5px 110px 15px 100px;
+	}
+
+	.who_we_are{
+		    padding: 35px 0 0 0;
+	}
+
+	.who_we_are_display h2{
+		font-size: 30px;
+	}
+
+	.who_we_are_display p{
+		font-size: 12px;
+		padding: 15px 140px 30px 130px;
+	}
+
+	.who_we_are_analitics{
+		    height: 490px;
+	}
+
+	.who_we_are_analitics_avatar img{
+		width: 120px;
+	}
+
+	.some_features{
+		padding: 40px 0 0 0;
+	}
+
+	.some_features h3{
+		font-size: 24px;
+	}
+
+	.some_features_display{
+		    padding: 0 0 20px 0;
+	}
+
+	.some_features_items img{
+		width: 30px;
+		height: 30px;
+	}
+
+	.some_features_items img:nth-child(3){
+		border: 3px solid red;
+	}
+
+	.some_features_items{
+		width: 140px;
+	}
+
+	.who_we_are_analitics_info{
+		height: 427px;
+		    padding: 80px 50px 30px 60px;
+	}
+
+	.who_we_are_analitics_info_panel .headers{
+		    padding: 0 0 0 5px;
+	}
+
+	.who_we_are_analitics_info h3{
+		font-size: 18px;
+	}
+
+	.who_we_are_analitics_avatar h3{
+		font-size: 18px;
+	}
+
+	.who_we_are_analitics_avatar p{
+		font-size: 12px;
+	}
+
+	.who_we_are_analitics_info p{
+		font-size: 12px;
+		    padding: 12px 0 25px 0;
+	}
+
+	.who_we_are_analitics_info div{
+		font-size: 12px;
+	}
+
+	.some_features h3{
+		font-size: 16px;
+	}
+
+	.some_features_items_headers{
+		font-size: 13px;
+	}
+
+	.some_features_items_content{
+		font-size: 18px;
+		    margin: 10px 0 30px 0;
+	}
+
+}
+
+
+/* xs */
+@media (max-width: 768px){
+	#block-for-slider{
+		width: 98%;
+	}
+
+	.our_works p{
+		padding: 0px 40px 5px 30px;
+	}
+
+	.our_works_headers a{
+		margin: 2px;
+		font-size: 11px;
+	}
+
+	.our_works_display{
+		    padding: 20px 0 0 0;
+	}
+
+	.our_works_display h2{
+		font-size: 24px;
+	}
+
+	.our_works_prodjects{
+		    padding: 10px 0 0px 0;
+	}
+
+	.our_works_prodjects div{
+		width: 70%;
+		margin-left: 15%;
+	}
+
+	.our_works_prodjects div div{
+		/*width: 70%;*/
+		margin-left: 15%;
+	}
+
+	.our_works_company{
+		padding: 15px 0 15px 0;
+	}
+
+	.our_works_company a{
+		font-size: 14px;
+		padding: 0 1px 0 1px;
+	}
+
+
+
+	#prev-btn {
+	    left: 0px;
+	}
+
+	#next-btn {
+	    right: 0px;
+	}
+
+	.our_works_company img{
+		height: 23px;
+		width: 27px;
+	}
+
+	#prev-btn, #next-btn {
+	    top: calc(100% - 25px);
+	}
+
+	.who_we_are{
+		    padding: 20px 0 0 0;
+	}
+
+	.who_we_are_display h2{
+		font-size: 24px;
+	}
+
+	.who_we_are_display p{
+		    padding: 15px 40px 25px 30px;
+	}
+
+	.who_we_are_analitics{
+		height: 410px;
+	}
+
+	.who_we_are_analitics > div{
+		margin: 0px;
+	}
+
+	.who_we_are_analitics_avatar img{
+		width: 70px;
+	}
+
+	.who_we_are_analitics_avatar h3{
+		font-size: 13px;
+	}
+
+	.who_we_are_analitics_avatar p{
+		    font-size: 10px;
+	}
+
+	.who_we_are_analitics_info{
+		    padding: 60px 20px 10px 25px;
+		        height: 367px;
+	}
+
+	.who_we_are_analitics_info h3{
+		font-size: 13px;
+	}
+
+	.who_we_are_analitics_info p{
+		    font-size: 10px;
+    	padding: 5px 0 15px 0;
+	}
+
+	.who_we_are_analitics_info div{
+		 font-size: 10px;
+	}
+
+	.who_we_are_analitics_info_panel_items{
+		height: 30px;
+	}
+
+	.some_features_items{
+		    width: 130px;
+	}
+}
